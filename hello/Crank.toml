@@ -1,0 +1,5 @@
+[[target]]
+name = "hello"
+assets = [
+    "assets/heart.png"
+]
